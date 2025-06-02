@@ -1,4 +1,4 @@
-# medical-appointments-cleaning
+# Medical-appointments-cleaning
 Overview
 This project focuses on cleaning and preprocessing the Medical Appointment No-Shows dataset from Kaggle. The dataset contains information about patient appointments, including whether they showed up or not. The goal was to ensure the data is properly formatted, free of inconsistencies, and ready for analysis.
 
